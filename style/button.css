@@ -12,9 +12,12 @@
   text-align: center;
   transition: all 0.2s;
   background-color: transparent;
+  position: absolute;
+  top: 450px;
+  z-index: 2;
 }
 
 #buttonOne:hover {
   color: #000000;
-  background-color: #ffffff;
+  background-color: white;
 }
