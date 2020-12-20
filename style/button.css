@@ -1,6 +1,6 @@
 #buttonOne {
   display: inline-block;
-  padding: 0.35em 1.2em;
+  padding: 15px;
   border: 0.1em solid #ffffff;
   margin: 0 0.3em 0.3em 0;
   border-radius: 0.12em;
@@ -13,8 +13,9 @@
   transition: all 0.2s;
   background-color: transparent;
   position: absolute;
-  top: 450px;
+  top: 400px;
   z-index: 2;
+  width: 120px;
 }
 
 #buttonOne:hover {
