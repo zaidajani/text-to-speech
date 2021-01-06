@@ -4,7 +4,7 @@
 
 This is an application which asks us for input of text and converts it into text.
 
-<img src="./preview.png">
+<img src="./preview.gif">
 
 # Preview
 
