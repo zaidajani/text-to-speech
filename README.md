@@ -2,7 +2,7 @@
 
 ## what is this?
 
-This is an application which asks us for input of text and converts it into text.
+This is an application in which user enters text and the computer reads it out for us.
 
 <img src="./preview.gif">
 
